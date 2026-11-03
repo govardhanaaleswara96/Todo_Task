@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+.vite/
+.env*
+!.env.example
+*.log
+.DS_Store
+*.pem
+*.key
+credentials*.json
+client_secret*.json
+service-account*.json
+*.zip
